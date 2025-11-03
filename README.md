@@ -38,9 +38,13 @@ source venv/bin/activate
 ```
 ## Структура
 word_cloud/                 #  корень репозитория
+
 ├── main.py
-├── README.md              
+
+├── README.md         
+
 ├── requirements.txt
+
 ├── .gitignore
 
 
