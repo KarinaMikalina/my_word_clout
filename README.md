@@ -37,7 +37,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 ## Структура
-word_cloud/                 #  корень репозитория
+word_cloud/                 
 
 ├── main.py
 
