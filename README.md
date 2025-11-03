@@ -36,12 +36,13 @@ venv\Scripts\activate
 # Для macOS/Linux:
 source venv/bin/activate
 ```
-Структура
-word_clout/
-├── main.py          # Основная программа
-├── README.md        # Документация (этот файл)
-├── requirements.txt # Список зависимостей
-└── .gitignore       # Исключаемые файлы
-Автор Карина Микалина
+## Структура
+word_cloud/                 #  корень репозитория
+├── main.py
+├── README.md              
+├── requirements.txt
+├── .gitignore
+
+
 ## Автор
 Карина Микалина
