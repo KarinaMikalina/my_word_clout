@@ -19,8 +19,8 @@
 ## Установка
 ### Клонирование репозитория
 ```bash
-git clone https://github.com/KarinaMikalina/word_clout.git
-cd word_clout
+git clone https://github.com/KarinaMikalina/word_cloud.git
+cd word_cloud
 ```
 
 ### Создание виртуального окружения
