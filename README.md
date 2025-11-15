@@ -34,6 +34,7 @@ venv\Scripts\activate
 
 # Для macOS/Linux:
 source venv/bin/activate
+python main.py
 ```
 ## Структура
 word_cloud/                 
